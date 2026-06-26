@@ -36,14 +36,11 @@ class SridharGoud:
         self.cgpa       = 8.19
         self.grad_year  = 2027
         self.location   = "Hyderabad, India 🇮🇳"
-        self.experience = "AI Engineering Intern @ Viswam AI – Swecha (Jun–Aug 2025)"
-
+        
     def currently(self):
         return [
             "🔨 Building TapRent — a multi-vendor SaaS equipment rental marketplace",
             "⚡ Engineering real-time collaborative tools with WebSockets & Django Channels",
-            "🤖 Exploring LLMs, fine-tuning, and AI-powered data-driven systems",
-            "📈 Solving DSA problems daily on LeetCode",
             "🎯 Targeting SDE internships — available immediately",
         ]
 
@@ -51,7 +48,6 @@ class SridharGoud:
         return {
             "languages":  ["Python", "JavaScript", "Java", "SQL"],
             "frameworks": ["Django", "Django REST Framework", "React", "Streamlit"],
-            "ai_ml":      ["Scikit-learn", "OpenCV", "Hugging Face", "Transformers", "LLMs"],
             "databases":  ["MySQL", "Redis"],
             "cloud":      ["AWS EC2", "Lambda", "Auto Scaling", "Render", "Vercel"],
             "tools":      ["Git", "GitHub", "GitLab", "Linux", "Postman", "CI/CD"],
@@ -90,9 +86,6 @@ class SridharGoud:
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
 **AI / ML**
 
@@ -113,8 +106,6 @@ class SridharGoud:
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 </div>
 
@@ -156,39 +147,6 @@ class SridharGoud:
 </tr>
 </table>
 
------
-
-## 🎓 Education
-
-<table>
-<tr>
-<td width="60px" align="center">🏛️</td>
-<td>
-<strong>ICFAI Foundation for Higher Education, Hyderabad</strong><br/>
-<sub>B.Tech, Computer Science & Engineering · Expected May 2027</sub><br/>
-<sub>CGPA: 8.19 / 10.0</sub><br/><br/>
-<sub>📚 DSA · OS · DBMS · Computer Networks · OOP · Software Engineering (Agile/SDLC) · ML · Big Data (Hadoop)</sub>
-</td>
-</tr>
-</table>
-
------
-
-## 🏆 Achievements & Activities
-
-<div align="center">
-
-🥇 **NMMS Merit Scholarship** — Top 2% of Telangana State (Grade 8)
-
-🏅 **Hack2Skill Hackathon** Participant
-
-🌐 **Active Open Source Contributor** on GitHub
-
-🏃 **State-Level Kho-Kho** — School Representative
-
-</div>
-
------
 
 ## 📫 Let’s Connect
 
