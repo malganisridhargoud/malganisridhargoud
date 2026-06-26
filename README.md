@@ -2,7 +2,7 @@
 
 <!-- Animated header banner -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0066cc,100:00d4ff&height=200&section=header&text=Malgani%20Sridhar%20Goud&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%20Builder%20%7C%20B.Tech%20CSE%20%40%20IFHE%20Hyderabad&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0066cc,100:00d4ff&height=200&section=header&text=Malgani%20Sridhar%20Goud&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%20Builder%20%7C%20B.Tech%20CSE&descSize=16&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <!-- Typing animation -->
 
@@ -50,7 +50,7 @@ class SridharGoud:
             "frameworks": ["Django", "Django REST Framework", "React", "Streamlit"],
             "databases":  ["MySQL", "Redis"],
             "cloud":      ["AWS EC2", "Lambda", "Auto Scaling", "Render", "Vercel"],
-            "tools":      ["Git", "GitHub", "GitLab", "Linux", "Postman", "CI/CD"],
+            "tools":      ["Git", "GitHub", "GitLab", "Linux"],
         }
 ```
 
