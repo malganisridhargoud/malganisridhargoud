@@ -32,9 +32,7 @@ class SridharGoud:
     def __init__(self):
         self.name       = "Malgani Sridhar Goud"
         self.role       = "Full-Stack SDE Intern Candidate"
-        self.education  = "B.Tech CSE @ ICFAI Foundation for Higher Education, Hyderabad"
-        self.cgpa       = 8.19
-        self.grad_year  = 2027
+        self.education  = "B.Tech CSE 
         self.location   = "Hyderabad, India 🇮🇳"
         
     def currently(self):
@@ -47,7 +45,7 @@ class SridharGoud:
     def tech_stack(self):
         return {
             "languages":  ["Python", "JavaScript", "Java", "SQL"],
-            "frameworks": ["Django", "Django REST Framework", "React", "Streamlit"],
+            "frameworks": ["Django", "React", "Streamlit"],
             "databases":  ["MySQL", "Redis"],
             "cloud":      ["AWS EC2", "Lambda", "Auto Scaling", "Render", "Vercel"],
             "tools":      ["Git", "GitHub", "GitLab", "Linux"],
@@ -64,7 +62,7 @@ class SridharGoud:
 |------------------|--------------------------------------------------------------------------------------------------------|---------------------------------------------------------|-------------------------------------------------------------------------------|
 |🛒 **TapRent**     |Multi-vendor equipment rental SaaS — bookings, Stripe subscriptions, role-based APIs, ML recommendations|React · Django · MySQL · Stripe · Clerk · Render · Vercel|[🔗 Demo](https://taprent-equipment-rental.vercel.app/)                         |
 |💻 **CoDe KnOt**   |Real-time collaborative code editor with WebSocket sync, Redis messaging, persistent room state         |React · Django Channels · Redis · MySQL · WebSockets     |[🔗 GitHub](https://github.com/malganisridhargoud)                              |
-|🔍 **DefectVision**|AI-powered industrial defect detection — HOG + RBF-SVM pipeline, F1-score 0.868 ± 0.042                 |Python · OpenCV · Scikit-learn · SVM · Streamlit         |[🔗 Demo](https://defect-detection-opencv-39ckqfqdfxbbaa2dcscr3t.streamlit.app/)|
+|🔍 **DefectVision**|AI-powered industrial defect detection — HOG + RBF-SVM pipeline, F1-score 0.868 ± 0.042                 |Python  · Scikit-learn · SVM · Streamlit         |[🔗 Demo](https://defect-detection-opencv-39ckqfqdfxbbaa2dcscr3t.streamlit.app/)|
 
 </div>
 
@@ -87,11 +85,6 @@ class SridharGoud:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-**AI / ML**
-
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![LLMs](https://img.shields.io/badge/LLMs-412991?style=for-the-badge&logo=openai&logoColor=white)
-
 **Databases & Cloud**
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -100,7 +93,7 @@ class SridharGoud:
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
 
-**Tools & DevOps**
+**Tools**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -129,23 +122,6 @@ class SridharGoud:
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=malganisridhargoud&bg_color=0d1117&color=0066cc&line=00d4ff&point=ffffff&area=true&hide_border=true" width="98%" alt="Contribution Graph"/>
 
 </div>
-
------
-
-## 💼 Experience
-
-<table>
-<tr>
-<td width="60px" align="center">🤖</td>
-<td>
-<strong>AI Engineering Intern — Viswam AI · Swecha Hyderabad</strong><br/>
-<sub>June 2025 – August 2025 · Hyderabad, India</sub><br/><br/>
-• Developed production-grade LLM-powered applications using Python, Streamlit, Groq LLaMA 3, and REST APIs<br/>
-• Contributed to <strong>Gonthuka</strong> Telugu ASR initiative — 1.5M+ recordings, 45K+ contributors<br/>
-• Developed multilingual AI features via GitLab CI/CD; authored API specs and architecture documentation
-</td>
-</tr>
-</table>
 
 
 ## 📫 Let’s Connect
