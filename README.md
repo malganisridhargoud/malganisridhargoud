@@ -1,3 +1,5 @@
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="sridhargoudmalgani" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/sridhargoudmalgani?trk=profile-badge">Sridhar Goud Malgani</a></div>
+            
 <div align="center">
 
 <!-- Animated header banner -->
